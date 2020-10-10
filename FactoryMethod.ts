@@ -15,6 +15,9 @@ class IPhone implements Product {
     }
 }
 
+/* 
+Could be made with abstract class which had default implementation for makeProduct.
+*/
 interface ProductFactory {
     makeProduct(): Product;
 }
