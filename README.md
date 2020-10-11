@@ -6,6 +6,7 @@ A collection of design patterns implemented in TypeScript
 * Factory method: https://refactoring.guru/design-patterns/factory-method/typescript/example
 
 ## Structual patterns
+* Composite: https://refactoring.guru/design-patterns/composite/typescript/example
 
 ## Behavioral patterns
 * Observer: https://refactoring.guru/design-patterns/observer/typescript/example
