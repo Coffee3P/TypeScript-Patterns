@@ -4,6 +4,7 @@ A collection of design patterns implemented in TypeScript
 ## Creational patterns
 * Abstract factory: https://refactoring.guru/design-patterns/abstract-factory/typescript/example
 * Factory method: https://refactoring.guru/design-patterns/factory-method/typescript/example
+* Builder: -
 
 ## Structual patterns
 * Composite: https://refactoring.guru/design-patterns/composite/typescript/example
