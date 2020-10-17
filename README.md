@@ -9,6 +9,7 @@ A collection of design patterns implemented in TypeScript
 
 ## Structual patterns
 * Composite: https://refactoring.guru/design-patterns/composite/typescript/example
+* Decorator: https://en.wikipedia.org/wiki/Decorator_pattern
 
 ## Behavioral patterns
 * Chain of Responsibility: https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
