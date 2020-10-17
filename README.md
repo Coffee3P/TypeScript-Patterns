@@ -13,6 +13,7 @@ A collection of design patterns implemented in TypeScript
 ## Behavioral patterns
 * Observer: https://refactoring.guru/design-patterns/observer/typescript/example
 * State: https://refactoring.guru/design-patterns/state/typescript/example
+* Strategy: https://refactoring.guru/design-patterns/strategy/typescript/example
 
 ## Tree traversal
 * Binary Search Tree: https://medium.com/@konduruharish/binary-search-tree-in-typescript-and-c-25fa5107cc5d
