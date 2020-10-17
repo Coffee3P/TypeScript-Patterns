@@ -11,6 +11,7 @@ A collection of design patterns implemented in TypeScript
 * Singleton: https://refactoring.guru/design-patterns/singleton/typescript/example
 
 ## Behavioral patterns
+* Chain of Responsibility: https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
 * Observer: https://refactoring.guru/design-patterns/observer/typescript/example
 * State: https://refactoring.guru/design-patterns/state/typescript/example
 * Strategy: https://refactoring.guru/design-patterns/strategy/typescript/example
