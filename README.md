@@ -8,6 +8,7 @@ A collection of design patterns implemented in TypeScript
 
 ## Structual patterns
 * Composite: https://refactoring.guru/design-patterns/composite/typescript/example
+* Singleton: https://refactoring.guru/design-patterns/singleton/typescript/example
 
 ## Behavioral patterns
 * Observer: https://refactoring.guru/design-patterns/observer/typescript/example
